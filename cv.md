@@ -10,7 +10,7 @@
 ___ 
 
 About me:
-I am in my third year as a student in KSTU, my major is Information systems and technologies. For about half and the year till this day I have been working as an iC-programmer. But recently my interests shifted to Front-End Software Development, and now I am longingly gaining my knowledge in this field.
+I am intersted in learning how to build well-designed and functional websites which will gather people according to their interests. For now I am in a third year of studying Information systems and technologies in the KSTU. For about half and the year till this day I have been working as an iC-programmer.
 I am diligent and team-working person who is always open to something new.
 
 # Skills: 
@@ -26,3 +26,5 @@ I am diligent and team-working person who is always open to something new.
 
 # My projects:
 My first done projects is this CV.
+
+
