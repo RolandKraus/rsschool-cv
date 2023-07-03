@@ -20,9 +20,9 @@ I am diligent and team-working person who is always open to something new.
 
 # Code example:
 
-> function multiply(a, b){
-> return a * b
-> }
+> function multiply(a, b){  
+> return a * b  
+> }  
 
 # My projects:
-My first done projects is this CV, althhough currently I am working on building website for my company. When I finish, I will update this CV
+My first done projects is this CV.
